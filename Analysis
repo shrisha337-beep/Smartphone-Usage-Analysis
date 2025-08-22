@@ -1,0 +1,19 @@
+## 🔑 Key Findings
+1. Average daily screen time is ~5.2 hours; 30% cross 6 hours/day.  
+2. Late-night users report 25% lower average sleep.  
+3. Negative correlation between screen time and GPA (r = -0.42).  
+4. Gender differences: Females lean towards social media, males towards gaming.  
+5. Usage peaks at 7–11 PM, delaying bedtime.  
+6. Weekend usage spikes 1.4× higher than weekdays.  
+7. High-addiction users show higher stress and lower performance.  
+
+---
+
+## 📊 Statistical Significance
+- **T-test**: GPA is significantly lower in high-addiction vs low-addiction groups (p < 0.05).  
+- **Chi-square**: Addiction level strongly associated with sleep quality (p < 0.05).  
+- **ANOVA**: GPA differs significantly across screen-time groups (p < 0.05).  
+
+---
+
+  
